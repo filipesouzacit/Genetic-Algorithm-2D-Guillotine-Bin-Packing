@@ -1,0 +1,69 @@
+
+		----------- Start files parsing -----------
+
+	--- Parsing Optimization Parameters file ---
+	Optimization Parameters file path: Instances_Checker\Optimization_parameters.csv
+	nPlates: 50
+	lengthPlates: 6000
+	widthPlates: 3210
+	min1Cut: 100
+	max1Cut: 3000
+	min2Cut: 100
+	minWidthWaste: 20
+	executionTime: 3600
+	--- Optimization Parameters file parsed successfully ---
+
+	--- Parsing Batch file ---
+	Batch file path: Instances_Checker\Batch_0.csv
+	Items: 3
+	Stacks: 1
+	--- Batch file parsed successfully ---
+
+	--- Parsing Solution file ---
+	Solution file path: Instances_Checker\Solution_0.csv
+	Plates: 1
+	Node 9: is a residual
+	Nodes: 10
+	branches: 2
+	Items: 3
+	Residuals: 1
+	Waste: 3
+	Used Cut Stages: 2
+	Tree structure built
+	--- Solution file parsed successfully ---
+
+	--- Parsing Defects file ---
+	Defects file path: Instances_Checker\Defects_0.csv
+	Defects: 176
+	Defects on used plates: 2
+	--- Defects file parsed successfully ---
+
+		----------- End of files parsing ----------
+
+	--- Item production constraint verification ---
+	Item production constraint verified successfully
+	--- End of Item production constraint verification ---
+
+	--- Superposing with defects constraint verification ---
+	Superposing with defects constraint verified successfully
+	--- End of Superposing with defects constraint verification ---
+
+	--- Sequence & Identity constraints verification ---
+	Sequence Constraint verified successfully
+	Identity Constraint verified successfully
+	--- End of Sequence & Identity constraints verification ---
+
+	--- Dimensions constraint verification ---
+	ERROR -- Node 4: (x: 0, y: 600, width: 600, height: 600) has node.y != node[3].y + node[3].height
+	ERROR -- Node 7: x: 1842 is not equal to its parent node 6 x: 600
+	ERROR -- Node 8: node.y + node.height > parent.y + parent.height (parent.node_id: 6)
+	ERROR -- Node 9: (x: 1842, y: 0, width: 4258, height: 3210) has node.x + node.width > plate.width (plate.node_id: 0)
+	--- End of Dimension constraint verification ---
+
+	--- Display Plates Area Usage ---
+	ERROR -- Unable to verify Display Plates Area Usage due to INVALID SOLUTION
+	--- End of Display Plates Area Usage ---
+
+	------------------------------------------------------------
+			INVALID SOLUTION  
+	------------------------------------------------------------

@@ -1,0 +1,208 @@
+# depslib dependency file v1.0
+1511779774 source:c:\users\r4302251\documents\checker project\checker\src\main.cpp
+	<stdint-gcc.h>
+	<cstdlib>
+	<string>
+	<iostream>
+	<fstream>
+	"GlassNode.h"
+	"GlassPlate.h"
+	"GlassItem.h"
+	"GlassStack.h"
+
+1510563053 source:c:\users\r4302251\documents\checker project\checker\src\glassnode.cpp
+	"GlassNode.h"
+
+1509700280 c:\users\r4302251\documents\checker project\checker\include\glassnode.h
+
+1510588294 source:c:\users\r4302251\documents\checker project\checker\src\glassplate.cpp
+	"GlassPlate.h"
+
+1509723761 c:\users\r4302251\documents\checker project\checker\include\glassplate.h
+	"GlassNode.h"
+	"GlassDefect.h"
+
+1508845509 source:c:\users\r4302251\documents\checker project\checker\src\glassitem.cpp
+	"GlassItem.h"
+
+1509001028 c:\users\r4302251\documents\checker project\checker\include\glassitem.h
+
+1509638226 source:c:\users\r4302251\documents\checker project\checker\src\glassstack.cpp
+	"GlassStack.h"
+
+1508938973 c:\users\r4302251\documents\checker project\checker\include\glassstack.h
+	"GlassItem.h"
+
+1509612040 source:c:\users\r4302251\documents\checker project\checker\src\glassdefect.cpp
+	"GlassDefect.h"
+
+1509611854 c:\users\r4302251\documents\checker project\checker\include\glassdefect.h
+
+1509612040 source:c:\users\r4302251\documents\depot git\checker_cutting_optimization\src\glassdefect.cpp
+	"GlassDefect.h"
+
+1512643412 c:\users\r4302251\documents\depot git\checker_cutting_optimization\include\glassdefect.h
+
+1508845509 source:c:\users\r4302251\documents\depot git\checker_cutting_optimization\src\glassitem.cpp
+	"GlassItem.h"
+
+1512643443 c:\users\r4302251\documents\depot git\checker_cutting_optimization\include\glassitem.h
+
+1510563053 source:c:\users\r4302251\documents\depot git\checker_cutting_optimization\src\glassnode.cpp
+	"GlassNode.h"
+
+1513247934 c:\users\r4302251\documents\depot git\checker_cutting_optimization\include\glassnode.h
+
+1510588294 source:c:\users\r4302251\documents\depot git\checker_cutting_optimization\src\glassplate.cpp
+	"GlassPlate.h"
+
+1513248213 c:\users\r4302251\documents\depot git\checker_cutting_optimization\include\glassplate.h
+	"GlassNode.h"
+	"GlassDefect.h"
+
+1509638226 source:c:\users\r4302251\documents\depot git\checker_cutting_optimization\src\glassstack.cpp
+	"GlassStack.h"
+
+1513177016 c:\users\r4302251\documents\depot git\checker_cutting_optimization\include\glassstack.h
+	"GlassItem.h"
+
+1513264089 source:c:\users\r4302251\documents\depot git\checker_cutting_optimization\src\main.cpp
+	<stdint-gcc.h>
+	<cstdlib>
+	<string>
+	<iostream>
+	<fstream>
+	"main.h"
+	"GlassNode.h"
+	"GlassPlate.h"
+	"GlassItem.h"
+	"GlassStack.h"
+
+1513257645 c:\users\r4302251\documents\depot git\checker_cutting_optimization\include\main.h
+
+1512460571 source:c:\users\l4148681\documents\2017\decoupe\challenge_roadef_euro\checker_cutting_optimization\src\glassdefect.cpp
+	"GlassDefect.h"
+
+1513259119 c:\users\l4148681\documents\2017\decoupe\challenge_roadef_euro\checker_cutting_optimization\include\glassdefect.h
+
+1512460571 source:c:\users\l4148681\documents\2017\decoupe\challenge_roadef_euro\checker_cutting_optimization\src\glassitem.cpp
+	"GlassItem.h"
+
+1513259119 c:\users\l4148681\documents\2017\decoupe\challenge_roadef_euro\checker_cutting_optimization\include\glassitem.h
+
+1512460571 source:c:\users\l4148681\documents\2017\decoupe\challenge_roadef_euro\checker_cutting_optimization\src\glassnode.cpp
+	"GlassNode.h"
+
+1513587219 c:\users\l4148681\documents\2017\decoupe\challenge_roadef_euro\checker_cutting_optimization\include\glassnode.h
+
+1512460571 source:c:\users\l4148681\documents\2017\decoupe\challenge_roadef_euro\checker_cutting_optimization\src\glassplate.cpp
+	"GlassPlate.h"
+
+1513587219 c:\users\l4148681\documents\2017\decoupe\challenge_roadef_euro\checker_cutting_optimization\include\glassplate.h
+	"GlassNode.h"
+	"GlassDefect.h"
+
+1512460571 source:c:\users\l4148681\documents\2017\decoupe\challenge_roadef_euro\checker_cutting_optimization\src\glassstack.cpp
+	"GlassStack.h"
+
+1513259119 c:\users\l4148681\documents\2017\decoupe\challenge_roadef_euro\checker_cutting_optimization\include\glassstack.h
+	"GlassItem.h"
+
+1513587219 source:c:\users\l4148681\documents\2017\decoupe\challenge_roadef_euro\checker_cutting_optimization\src\main.cpp
+	<stdint-gcc.h>
+	<cstdlib>
+	<string>
+	<iostream>
+	<fstream>
+	"main.h"
+	"GlassNode.h"
+	"GlassPlate.h"
+	"GlassItem.h"
+	"GlassStack.h"
+
+1513587219 c:\users\l4148681\documents\2017\decoupe\challenge_roadef_euro\checker_cutting_optimization\include\main.h
+
+1516888150 source:c:\users\q6730430\documents\2018_sggf_challengeroadef\challenge_materials\checker\src\glassdefect.cpp
+	"GlassDefect.h"
+
+1516888150 c:\users\q6730430\documents\2018_sggf_challengeroadef\challenge_materials\checker\include\glassdefect.h
+
+1516888150 source:c:\users\q6730430\documents\2018_sggf_challengeroadef\challenge_materials\checker\src\glassitem.cpp
+	"GlassItem.h"
+
+1516888150 c:\users\q6730430\documents\2018_sggf_challengeroadef\challenge_materials\checker\include\glassitem.h
+
+1516888150 source:c:\users\q6730430\documents\2018_sggf_challengeroadef\challenge_materials\checker\src\glassnode.cpp
+	"GlassNode.h"
+
+1516888150 c:\users\q6730430\documents\2018_sggf_challengeroadef\challenge_materials\checker\include\glassnode.h
+
+1516888150 source:c:\users\q6730430\documents\2018_sggf_challengeroadef\challenge_materials\checker\src\glassplate.cpp
+	"GlassPlate.h"
+
+1516888150 c:\users\q6730430\documents\2018_sggf_challengeroadef\challenge_materials\checker\include\glassplate.h
+	"GlassNode.h"
+	"GlassDefect.h"
+
+1516888150 source:c:\users\q6730430\documents\2018_sggf_challengeroadef\challenge_materials\checker\src\glassstack.cpp
+	"GlassStack.h"
+
+1516888150 c:\users\q6730430\documents\2018_sggf_challengeroadef\challenge_materials\checker\include\glassstack.h
+	"GlassItem.h"
+
+1519907530 source:c:\users\q6730430\documents\2018_sggf_challengeroadef\challenge_materials\checker\src\main.cpp
+	<stdint-gcc.h>
+	<cstdlib>
+	<string>
+	<iostream>
+	<fstream>
+	"main.h"
+	"GlassNode.h"
+	"GlassPlate.h"
+	"GlassItem.h"
+	"GlassStack.h"
+
+1519897505 c:\users\q6730430\documents\2018_sggf_challengeroadef\challenge_materials\checker\include\main.h
+
+1516888150 source:c:\users\q6730430\documents\ma_cutting_challenge_roadef\code\checker\src\glassdefect.cpp
+	"GlassDefect.h"
+
+1516888150 c:\users\q6730430\documents\ma_cutting_challenge_roadef\code\checker\include\glassdefect.h
+
+1516888150 source:c:\users\q6730430\documents\ma_cutting_challenge_roadef\code\checker\src\glassitem.cpp
+	"GlassItem.h"
+
+1516888150 c:\users\q6730430\documents\ma_cutting_challenge_roadef\code\checker\include\glassitem.h
+
+1516888150 source:c:\users\q6730430\documents\ma_cutting_challenge_roadef\code\checker\src\glassnode.cpp
+	"GlassNode.h"
+
+1516888150 c:\users\q6730430\documents\ma_cutting_challenge_roadef\code\checker\include\glassnode.h
+
+1516888150 source:c:\users\q6730430\documents\ma_cutting_challenge_roadef\code\checker\src\glassplate.cpp
+	"GlassPlate.h"
+
+1516888150 c:\users\q6730430\documents\ma_cutting_challenge_roadef\code\checker\include\glassplate.h
+	"GlassNode.h"
+	"GlassDefect.h"
+
+1516888150 source:c:\users\q6730430\documents\ma_cutting_challenge_roadef\code\checker\src\glassstack.cpp
+	"GlassStack.h"
+
+1516888150 c:\users\q6730430\documents\ma_cutting_challenge_roadef\code\checker\include\glassstack.h
+	"GlassItem.h"
+
+1519907530 source:c:\users\q6730430\documents\ma_cutting_challenge_roadef\code\checker\src\main.cpp
+	<stdint-gcc.h>
+	<cstdlib>
+	<string>
+	<iostream>
+	<fstream>
+	"main.h"
+	"GlassNode.h"
+	"GlassPlate.h"
+	"GlassItem.h"
+	"GlassStack.h"
+
+1519897505 c:\users\q6730430\documents\ma_cutting_challenge_roadef\code\checker\include\main.h
+
